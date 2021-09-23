@@ -122,3 +122,6 @@ Under 5-star default, an average driver/rider rating drops from 5 if there was a
 Riders with fractional average drivers ratings have a significantly lower churn rate (49%) than those with _exactly_ 5 stars (72%). 
 
 The problem is average rating can be updated in June, which means that the ratings columns (and specifically if it's a fraction) is potentially a data leak that a model could put them up on. Ideally we would have the average ratings from January to May.
+
+
+#### Repo Initially Forked from joshea628. Due to Forking Repo was Initially Private.
